@@ -17,7 +17,8 @@ This chatbot answers questions related to technology, computer science, and curr
 
 ## Demo
 
-![Chatbot Demo](demo_screenshot.png)  
+![Chatbot Demo](demo_screenshot1.PNG)  
+![Chatbot Demo](demo_screenshot2.PNG) 
 
 
 ## Getting Started
