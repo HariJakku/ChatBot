@@ -2,8 +2,8 @@ import streamlit as st
 from ibm_watsonx_ai.foundation_models import ModelInference
 
 # IBM Watsonx Credentials
-api_key = "ImbPt-KTxJT6tR_dJVbpDO6Ey6VcLyVkG-Fnuh2iafTE"
-project_id = "fe0cbd91-220b-4ada-bed0-966bda1e316e"
+api_key = "your-api-key"
+project_id = "your-project-id"
 base_url = "https://eu-de.ml.cloud.ibm.com"
 model_id = "ibm/granite-13b-instruct-v2"
 
