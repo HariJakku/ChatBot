@@ -33,8 +33,8 @@ This chatbot answers questions related to technology, computer science, and curr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ibm-watsonx-chatbot.git
-   cd ibm-watsonx-chatbot
+   git clone https://https://github.com/HariJakku/ChatBot
+   cd chatbot
    ```
 2. Create and activate a virtual environment (optional but recommended):
   ```bash
